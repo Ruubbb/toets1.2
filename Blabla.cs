@@ -9,7 +9,7 @@ string foniecredential = fonie.ReadCredentials();
 CryptoTerminal crippie = new CryptoTerminal("10",fonie);
 crippie.ProcessPayment(2.22m);
 
-
+// dit is een wijziging 2
 
 // dit is een wijziging.
 
