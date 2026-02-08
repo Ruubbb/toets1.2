@@ -13,6 +13,8 @@ crippie.ProcessPayment(2.22m);
 
 // dit is een wijziging.
 
+// dit is een wijziging 3
+
 CreditCardTerminal creditcard = new CreditCardTerminal("100", chippie);
 creditcard.ProcessPayment(100);
 creditcard.ProcessPayment(9.99m);
